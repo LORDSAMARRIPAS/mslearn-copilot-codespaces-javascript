@@ -25,6 +25,7 @@ const Header = () => {
       <a href="#about">About</a>
       <a href="#portfolio">Portfolio</a>
       <a href="#footer">Contact</a>
+      <a href="https://drive.google.com/file/d/1Jg5kLGVgl2pqD3-1Dw9lqkqK7oQeLyFl/view?usp=sharing"> MyResume </a>
     </div>
   );
 };

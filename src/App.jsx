@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Richard Pillaca",
-  title: "Web Designer & Developer",
+  title: "Software Engineer",
   email: "ridi.pillaca@gmail.com",
   gitHub: "microsoft",
   instagram: "microsoft",
